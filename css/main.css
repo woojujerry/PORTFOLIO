@@ -56,9 +56,9 @@ button:hover {
     color: #fff;
 }
 
-#menu>li>a>i {
+#menu>li>a>svg {
     font-size: 25px;
-    margin: 0 0 5px 0;
+    margin: 0 0 5px 21px;
     display: flex;
     flex-direction: column;
 }
