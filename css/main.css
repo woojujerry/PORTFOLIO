@@ -175,8 +175,9 @@ a:focus {
 
 .web-box>svg {
     width: 34px;
+    height: 34px;
     line-height: 30px;
-    font-size: 20px;
+    font-size: 14px;
     color: #EBEBE3;
     border: 2px solid #EBEBE3;
     border-radius: 500px;
