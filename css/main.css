@@ -173,7 +173,7 @@ a:focus {
     align-items: center;
 }
 
-.web-box>i {
+.web-box>svg {
     width: 34px;
     line-height: 30px;
     font-size: 20px;
