@@ -9,7 +9,8 @@ $(function () {
       "anchor4",
       "anchor5",
       "anchor6",
-      "anchor7"
+      "anchor7",
+      "anchor8"
     ],
     menu: "#menu"
   });
