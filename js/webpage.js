@@ -35,4 +35,11 @@ $(function (){
         $(this).css({"background": "rgba(0,0,0,0)"});
         $(this).find("svg").hide();
     })
+
+    // 비디오포폴
+    $("#webpage07").mouseenter(function(){
+        $("#webpage07 img").stop().animate({marginTop:"-1547px"}, 3000)
+    }).mouseleave(function(){
+        $("#webpage07 img").stop().animate({marginTop: "0px"}, 1000)
+    })
 });
